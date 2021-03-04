@@ -1,15 +1,16 @@
-id: opecha:P000566
+id: P000566
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16213
   title: ལེགས་བཤད་འོད་དཀར་འཕྲེང་བ། ༼༡༥༽
-  volume:
+  author: ''
+  volumes:
     9576476b296f4f8c96dc315767c26358:
       image_group_id: I1KG16246
       title: Volume 1 of legs bshad 'od dkar 'phreng ba/ (15)
       volume_number: 1
       total_pages: 320
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལེགས་བཤད་འོད་དཀར་འཕྲེང་བ། ༼༡༥༽
   author: ''
